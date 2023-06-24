@@ -1,3 +1,9 @@
+The below is how the website looks. It is a fully responsive website.
+<img width="1440" alt="Screenshot 2023-06-24 at 2 53 22 PM" src="https://github.com/pratyusssh/MovieLand/assets/110304017/cbe1cc2a-4470-4dad-aeec-442fadf10ba0">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
